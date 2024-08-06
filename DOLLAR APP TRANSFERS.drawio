@@ -12,7 +12,7 @@
         <mxCell id="Sc6ALYCBfedhq2a787Kb-2" value="Top Up" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="116.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Sc6ALYCBfedhq2a787Kb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Sc6ALYCBfedhq2a787Kb-3" value="Send" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="116.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Sc6ALYCBfedhq2a787Kb-4" value="Receive" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
